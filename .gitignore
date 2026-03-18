@@ -55,3 +55,6 @@ celerybeat.pid
 # Database
 *.db
 *.sqlite3
+.env
+env
+venv/
