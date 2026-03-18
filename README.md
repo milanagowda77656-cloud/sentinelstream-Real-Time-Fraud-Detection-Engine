@@ -70,8 +70,8 @@ Client Request
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentinelstream.git
-cd sentinelstream
+git clone https://github.com/YOUR_USERNAME/sentinelstream-Real-Time-Fraud-Detection-Engine.git
+cd sentinelstream-Real-Time-Fraud-Detection-Engine
 ```
 
 ### 2. Create the `.env` file
