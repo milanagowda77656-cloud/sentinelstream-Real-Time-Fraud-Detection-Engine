@@ -1,0 +1,57 @@
+# Environment variables - NEVER commit this
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# ML Model (large binary file - optional to exclude)
+# Uncomment the line below if you don't want to commit the model
+# ml/fraud_model.pkl
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+test.db
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+celerybeat-schedule
+celerybeat.pid
+
+# Database
+*.db
+*.sqlite3

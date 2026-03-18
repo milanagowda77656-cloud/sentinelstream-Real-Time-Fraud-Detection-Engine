@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg2-binary
+pydantic
+scikit-learn
+PyJWT
+passlib
+python-multipart
+python-jose[cryptography]
+python-dotenv
+celery[redis]
+redis
+
+pandas
+joblib
